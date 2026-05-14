@@ -1,4 +1,4 @@
-module github.com/redhatinsights/clowder-hello
+module github.com/redhatinsights/clowder-e2e
 
 go 1.19
 
